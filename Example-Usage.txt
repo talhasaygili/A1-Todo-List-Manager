@@ -1,0 +1,22 @@
+--- Todo List Manager ---
+1. Add Task
+2. List Tasks
+3. Mark Task as Completed
+4. Delete Task
+5. Exit
+Enter your choice: 1
+
+Enter Task Name: Advanced Todo App
+Enter Task Description: Implement advanced features for the Todo app
+
+--- Todo List Manager ---
+1. Add Task
+2. List Tasks
+3. Mark Task as Completed
+4. Delete Task
+5. Exit
+Enter your choice: 2
+
+ID   | Name               | Description                      | Status         
+---------------------------------------------------------------------------
+1    | Advanced Todo App  | Implement advanced features      | Not Completed
